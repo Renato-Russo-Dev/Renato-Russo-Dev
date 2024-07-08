@@ -1,12 +1,24 @@
  <img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
  <h2 align="center">Uma pessoa curiosa navegando pelos mares da programação</h2>
  
-<img
-  src="https://raw.githubusercontent.com/Renato-Russo-Dev/Renato-Russo-Dev/9bb5333f78b9451ca323de9876488e95bc88c18c/Emojis/dio.png"
-  alt="DIOOOOOOOOOOOOOOOOOOOOOOOOOOO"
-  width="150"
-  height="150"
-/>
+<div style="text-align: left;">
+  <img
+    src="https://raw.githubusercontent.com/Renato-Russo-Dev/Renato-Russo-Dev/e44e9b323b1c33ae6f1e2adb173737db052f2c2a/Emojis/dio%20v01.png"
+    alt="DIOOOOOOOOOOOOOOOOOOOOOOOOOOO"
+    width="150"
+    height="150"
+  />
+</div>
+
+<div style="text-align: right;">
+  <img
+    src="https://raw.githubusercontent.com/Renato-Russo-Dev/Renato-Russo-Dev/e44e9b323b1c33ae6f1e2adb173737db052f2c2a/Emojis/jotaro%20v01.png"
+    alt="JOTAROOOOOOOOOOOOOOOOOOOOOOO"
+    width="150"
+    height="150"
+  />
+</div>
+
 
 
 </p>
