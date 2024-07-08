@@ -1,6 +1,8 @@
  <img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
-- 👨‍💻 Uma pessoa curiosa navegando pelos mares da programação
+                                             Uma pessoa curiosa navegando pelos mares da programação
+
+ 
 - 🦦 Estudando Java
   <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
