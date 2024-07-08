@@ -1,53 +1,67 @@
-<h2 align="left">Olá 👋! Meu nome é Renato </h2>
+ <img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
-Uma pessoa curiosa navegando pelos mares da programação
+- 👨‍💻 Uma pessoa curiosa navegando pelos mares da programação
+- 🦦 Estudando Java
+  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
-###
+- 💬 Entre em contato comigo: renatoerusso2045@gmail.com
+- 🤓 Redes de computadores 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
+## Olá, Sou Renato Russo. Seja Bem vindo ao meu perfil no github 😁  
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</a>
+</h3>
+    <a href="https://www.linkedin.com/in/renato-russo-b7ba57243/">
+        <img align="center" alt="Rafa-js"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    </a>
+    <a href="https://www.instagram.com/renato__russo/">
+        <img align="center" alt="Rafa-js"
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+</div>
+<br>
+<picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=1Kkayke&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=1Kkayke&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+ <img alt="Globe" height="80" src="images/globe.gif">
+</picture>
+<div style="display: inline_block"><br>
+    <img align="center" alt="Rafa-js"
+        src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    <img align="center" alt="Rafa-js"
+        src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+   <img align="center" alt="Rafa-js"
+        src="https://img.shields.io/badge/Advpl-0078D4?style=for-the-badge" />
+  <img align="center" alt="Rafa-js"
+        src="https://img.shields.io/badge/Tl++-ffea00?style=for-the-badge" />  
+    <img align="center" alt="Raja.js"
+        src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img align="center" alt="Rafa-js"
+        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="Rafa-js"
+        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img align="center" alt="Rafa-js"
+        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img align="center" alt="Rafa-js"
+        src="https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <br>
+  
+</div>
+<br>
+<div>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img alt="Renato Russo Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Renato-Russo-Dev&bg_color=1F222E&color=00ffd5&line=003cc7&point=FFFFFF&hide_border=true" />
+    </a>
+ 
 </div>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-![Snake animation](https://raw.githubusercontent.com/{Renato-Russo-Dev}/{Renato-Russo-Dev}/output/github-contribution-grid-snake-dark.svg)
-
-###
-
-###
+<img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
