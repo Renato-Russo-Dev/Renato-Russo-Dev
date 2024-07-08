@@ -1,8 +1,13 @@
  <img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
  <h2 align="center">Uma pessoa curiosa navegando pelos mares da programação</h2>
  
-![dio-za](https://github.com/Renato-Russo-Dev/Renato-Russo-Dev/assets/175031107/43020990-2fe5-417c-8866-5da50d23f89e)
-![ora-jjba](https://github.com/Renato-Russo-Dev/Renato-Russo-Dev/assets/175031107/b5f99da7-cfc2-475d-a6a1-3c56e85f066e)
+<img
+  src="https://raw.githubusercontent.com/Renato-Russo-Dev/Renato-Russo-Dev/9bb5333f78b9451ca323de9876488e95bc88c18c/Emojis/dio.png"
+  alt="DIOOOOOOOOOOOOOOOOOOOOOOOOOOO"
+  width="150"
+  height="150"
+/>
+
 
 </p>
 
