@@ -1,7 +1,11 @@
  <img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
  <h2 align="center">Uma pessoa curiosa navegando pelos mares da programação</h2>
+ 
+![dio-za](https://github.com/Renato-Russo-Dev/Renato-Russo-Dev/assets/175031107/43020990-2fe5-417c-8866-5da50d23f89e)
+![ora-jjba](https://github.com/Renato-Russo-Dev/Renato-Russo-Dev/assets/175031107/b5f99da7-cfc2-475d-a6a1-3c56e85f066e)
 
- ![dio-za](https://github.com/Renato-Russo-Dev/Renato-Russo-Dev/assets/175031107/14a6a0b9-d98a-4bb3-8d89-e75e70f7efd7) ![ora-jjba](https://github.com/Renato-Russo-Dev/Renato-Russo-Dev/assets/175031107/5b5b70cc-d660-4092-bc58-fb9a447741a4)
+</p>
+
  </p>
 
 
