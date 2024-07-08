@@ -14,9 +14,9 @@
          style="margin-left: 10px;"/>
 </div>
 
-<h2 align="center">Seja bem vindo ao meu perfil</h2>
+<h2 align="center">Oi, sou o Renato! Bem vindo ao meu perfil.</h2>
 
-<p align="left">Aprendendo Java<br>Atualmente trabalhando como Suporte<br>Formado em rede de computadores</p>
+<p align="left">🤓 Aprendendo Java<br> 👨🏻‍💻 Atualmente na área de Suporte<br>🧑‍🎓 Formado em rede de computadores</p>
 
 ###
 
